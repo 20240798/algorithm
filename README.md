@@ -10,7 +10,7 @@
 
 ### Homework3
 [Insertsorting](./homework/Insertsorting.pde)
-![Insertsorting](homework/homework3.png)
+![Insertsorting](homework/Homework3.png)
 
 
 
