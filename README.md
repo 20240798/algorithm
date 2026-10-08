@@ -8,3 +8,9 @@
 [bubblesort](./homework/bubblesort.pde)
 ![bubblesort](homework/homework1.png)
 
+### Homework3
+[Insertsorting](./homework/Insertsorting.pde)
+![Insertsorting](homework/homework3.png)
+
+
+
