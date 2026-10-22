@@ -29,6 +29,12 @@
 ![SortAnimation](homework/Homework7.png)
 ![SortAnimation](homework/sortingainmation.gif)
 
+### Homework8
+[BinarySearchTree](./homework/BinarySearchTree.pde)
+![BinarySearchTree](homework/Homework8.png)
+![BinarySearchTree](homework/BinarySearchTree.png)
+
+
 
 
 
