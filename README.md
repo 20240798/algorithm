@@ -27,7 +27,7 @@
 ### Homework7
 [SortAnimation](./homework/SortAnimation.pde)
 ![SortAnimation](homework/Homework7.png)
-
+![SortAnimation](homework/sortingainmation.gif)
 
 
 
