@@ -24,6 +24,10 @@
 [Heapsorting](./homework/Heapsorting.pde)
 ![Heapsorting](homework/Homework6.png)
 
+### Homework7
+[SortAnimation](./homework/SortAnimation.pde)
+![SortAnimation](homework/Homework7.png)
+
 
 
 
